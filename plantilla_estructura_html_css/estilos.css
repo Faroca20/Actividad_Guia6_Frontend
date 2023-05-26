@@ -1,4 +1,6 @@
+/* Estilo universal para quitar estilos que ya vienen de los navegadores */
 * {
+  /* para que el paddign y el boirde no se agrande */
   box-sizing: border-box;
   margin: 0;
   padding: 0;
